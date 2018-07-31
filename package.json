@@ -1,0 +1,22 @@
+{
+  "name": "jsblockchaindemo",
+  "version": "1.0.0",
+  "description": "A simple blockchain demo created with JavaScript",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suvendusgiri/JSBlockchainDemo.git"
+  },
+  "author": "Suvendu Shekhar Giri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suvendusgiri/JSBlockchainDemo/issues"
+  },
+  "homepage": "https://github.com/suvendusgiri/JSBlockchainDemo#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
